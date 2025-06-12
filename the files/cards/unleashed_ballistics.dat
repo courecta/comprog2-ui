@@ -1,0 +1,9 @@
+Unleashed Ballistics
+SKILL-MOVE
+1
+0
+
+with MOVE
+aim 1 enemy
+atk 1
+knockback $l

@@ -1,0 +1,12 @@
+Energy Shield
+SKILL-DEF
+1
+0
+
+with DEF
+aim 1 enemy
+atk 1
+aim 1 self
+def $l
+ongoing if > $D 0 aim 1 enemy
+ongoing if > $D 0 atk 2

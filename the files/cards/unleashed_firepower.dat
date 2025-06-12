@@ -1,0 +1,9 @@
+Unleashed Firepower
+SKILL-MOVE
+2
+2
+
+with MOVE
+aim 2 enemy
+atk 2
+knockback $l

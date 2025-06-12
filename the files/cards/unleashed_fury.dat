@@ -1,0 +1,9 @@
+Unleashed Fury
+SKILL-MOVE
+3
+4
+
+with MOVE
+aim 3 enemy
+atk 3
+knockback $l
