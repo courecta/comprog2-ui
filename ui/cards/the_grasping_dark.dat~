@@ -1,0 +1,11 @@
+42
+The Grasping Dark
+SKILL-MOVE
+2
+2
+
+Range 3. Damage [] + [token]. Draw the opponent [] spaces toward you. (Cannot move  her through yourself.)
+aim 3 enemy
+if awake token_spend 3
+atk $+$l&$t
+pull $l

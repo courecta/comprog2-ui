@@ -1,0 +1,10 @@
+165
+After All I've Given
+TWIST
+0
+0
+ufre
+After your HP is reduced by taking damage (not by losing HP.) You may return up to 1 Match Card from the opponent's discard pile back to the Match Deck to move 1 space. (This is not a Move Action.)
+hurt aim 11 enemy
+hurt return_match 1
+hurt move_choose $m

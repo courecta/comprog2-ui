@@ -1,0 +1,10 @@
+11
+Pot Shot
+SKILL-ATK
+1
+0
+
+Range 1. Damage 1 + [].
+with ATK
+aim 1 enemy
+atk $+1&$l

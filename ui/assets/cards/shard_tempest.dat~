@@ -1,0 +1,10 @@
+24
+Shard Tempest
+SKILL-ATK
+2
+2
+
+Range 1. Damage 2 + []. Discard the top 2 cards of the opponent's deck into her discard pile.
+aim 1 enemy
+atk $+2&$l
+deck_discard 2

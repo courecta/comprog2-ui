@@ -1,0 +1,9 @@
+46
+The Blood Renews
+EPIC
+0
+0
+
+Immediately spend all of your Awakening Tokens (no matter which mode you are in) and recover 1 HP for each Awakening Token you spent in this way.
+spend_token 9
+recover $t

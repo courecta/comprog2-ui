@@ -1,0 +1,11 @@
+22
+Raining Vengeance
+EPIC
+0
+0
+
+Range 3. Damage 3. Knockback the opponent up to 3 spaces (your choice). The opponent must then discard 3 cards from her hand.
+aim 3 enemy
+atk 3
+knockback 3
+force_discard 3

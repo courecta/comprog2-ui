@@ -1,0 +1,11 @@
+96
+Regret a Wish
+SKILL-ATK
+2
+2
+
+Range 2. Damage 2 + []. You may spend Power to increase this damage. Gain Damage +1 for each 3 Power spent in this way.
+with ATK
+aim 2 enemy
+trade_power 3
+atk $+$+2&$l&$/$w&3

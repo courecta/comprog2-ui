@@ -1,0 +1,8 @@
+145
+Mental Barriers
+TWIST
+0
+0
+
+When you use a SKILL-MOVE, you may also gain Defense X at the same time. X is equal to the Skill Card's [level].
+use if cardtype SKILL-MOVE def $L

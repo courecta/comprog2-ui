@@ -1,0 +1,9 @@
+155
+Swift Reprisal
+TWIST
+0
+0
+fure
+You gain Max Defense Limit +1. (This Twist's effect is cumulative with other Twists' effects.)\nLimit once per turn. You may play a Defense Card as an Attack Card of the same level during your turn.
+obtain max_def 1
+print Haven't done yet, play a defense as attack.

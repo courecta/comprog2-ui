@@ -1,0 +1,11 @@
+100
+Diabolical Gamble
+SKILL-DEF
+3
+4
+
+Defense []. Lose X HP to draw X cards. X is no more than 3.
+with DEF
+def $l
+trade_hp 3
+draw $h

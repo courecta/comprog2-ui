@@ -1,0 +1,11 @@
+27
+Tainted Feast
+SKILL-DEF
+2
+2
+
+Range 1. Damage 2. Place up to [] cards from the top of the Poison Deck into the opponent's discard pile.
+with DEF
+aim 1 enemy
+atk 2
+poison $l

@@ -1,0 +1,10 @@
+164
+Inflamed Craving
+TWIST
+0
+0
+ufer
+When you use a SKILL-DEF. you may return up to 1 Match Card from the opponent's discard pile back to the Match Deck to draw 1 extra card.
+use if cardtype SKILL-DEF aim 11 enemy
+use if cardtype SKILL-DEF return_match 1
+use if cardtype SKILL-DEF draw $m

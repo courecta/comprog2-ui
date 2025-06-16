@@ -1,0 +1,11 @@
+43
+The Wrenching Dark
+SKILL-MOVE
+3
+4
+
+Range 4. Damage [] + [token]. Draw the opponent [] spaces toward you. (Cannot move  her through yourself.)
+aim 4 enemy
+if awake token_spend 3
+atk $+$l&$t
+pull $l

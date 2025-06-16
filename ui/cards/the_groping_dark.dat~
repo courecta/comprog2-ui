@@ -1,0 +1,11 @@
+43
+The Groping Dark
+SKILL-MOVE
+1
+0
+
+Range 2. Damage [] + [token]. Draw the opponent [] spaces toward you. (Cannot move  her through yourself.)
+aim 2 enemy
+if awake token_spend 3
+atk $+$l&$t
+pull $l

@@ -1,0 +1,10 @@
+39
+Shattering Bones
+SKILL-DEF
+2
+2
+
+Until the end of this turn. you gain Damage +2 during each of the next [] + [token] Attack Actions. (These actions do not need to be successive.)
+with DEF
+damage 2
+print no done yet

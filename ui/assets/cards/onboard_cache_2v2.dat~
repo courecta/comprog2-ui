@@ -1,0 +1,9 @@
+138
+Onboard Cache
+TWIST
+0
+0
+efr
+Action: Place a card from your hand onto this card. There can be no more than 1 card stored on this card. The card stored here will not be discarded at the end of each of your turns.\nAction: Add the card stored here into your hand.
+data_to_hand
+store_data_from_hand

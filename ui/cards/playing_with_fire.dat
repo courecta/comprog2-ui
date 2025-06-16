@@ -1,0 +1,9 @@
+166
+Playing with Fire
+TWIST
+0
+0
+rufe
+When an opponent uses a Match Card you gain 1 extra Power. (This Twist's effect is cumulative with other Twists' effects.)\nA Match Card cannot be uses as an Attack Card anymore.
+obtain match_limit ATK
+enemy_use if cardtype MATCH power 1

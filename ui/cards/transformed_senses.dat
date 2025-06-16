@@ -1,0 +1,8 @@
+137
+Transformed Senses
+TWIST
+0
+0
+fru
+When you use a Skill-ATK or -MOVE you may discard up to 1 Skill Card from your hand to gain Range +X. X is equal to the discarded Skill Card's [level].
+use if cardtype SKILL-ATK|SKILL-MOVE discard SKILL range 1

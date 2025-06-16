@@ -1,0 +1,11 @@
+25
+Shard Vortex
+SKILL-ATK
+3
+4
+
+Range 1. Damage 3 + []. Discard the top 3 cards of the opponent's deck into her discard pile.
+with ATK
+aim 1 enemy
+atk $+3&$l
+deck_discard 3

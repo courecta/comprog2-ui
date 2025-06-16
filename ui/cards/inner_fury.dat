@@ -1,0 +1,11 @@
+37
+Inner Fury
+SKILL-ATK
+3
+4
+
+Range 1. Damage 3 + []. You may also inflict X damage on yourself to gain Damage +X. X is no more than 3.
+with ATK
+aim 1 enemy
+trade_hp 3
+atk $+3&$h

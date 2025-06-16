@@ -1,0 +1,11 @@
+95
+Make a Wish
+SKILL-ATK
+1
+0
+
+Range 1. Damage 1 + []. You may spend Power to increase this damage. Gain Damage +1 for each 3 Power spent in this way.
+with ATK
+aim 1 enemy
+trade_power 3
+atk $+$+1&$l&$/$w&3

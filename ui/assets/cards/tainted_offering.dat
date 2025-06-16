@@ -1,0 +1,11 @@
+26
+Tainted Offering
+SKILL-DEF
+1
+0
+
+Range 1. Damage 1. Place up to [] cards from the top of the Poison Deck into the opponent's discard pile.
+with DEF
+aim 1 enemy
+atk 1
+poison $l

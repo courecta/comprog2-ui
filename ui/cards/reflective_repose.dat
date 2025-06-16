@@ -1,0 +1,8 @@
+158
+Reflective Repose
+TWIST
+0
+0
+fure
+At the end of each of your turns, gain Defense 2. (This Twist's effect is cumulative with other Twist's effects.)
+at_end def 2

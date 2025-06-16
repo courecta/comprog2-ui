@@ -1,0 +1,12 @@
+30
+Shattered Truth
+SKILL-MOVE
+2
+2
+
+Range 1 + []. Damage 2. Place yourself into one of the opponent's range 1 spaces.
+with MOVE
+aim $+1&$l enemy
+atk 2
+aim 11 enemy
+teleport 1

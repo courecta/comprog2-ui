@@ -1,0 +1,14 @@
+102
+Your Soul Wanting
+SKILL-MOVE
+2
+2
+
+Range 2. Damage 2 You may return up to [] Match Cards from the opponent's discard pile back to the Match Deck. For each card returned in this way, you gain 2 power and recover 1 HP.
+with MOVE
+aim 2 enemy
+atk 2
+return_match $l
+aim 1 self
+power $*2&$m
+recover $m

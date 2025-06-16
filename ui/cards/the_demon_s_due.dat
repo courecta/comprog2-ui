@@ -1,0 +1,10 @@
+105
+The Demon's Due
+EPIC
+0
+0
+
+Range 3. Discard to top 6  cards of the opponent's deck and gain Damage X. X is equal to the number of Match Cards discarded in this way.
+aim 3 enemy
+deck_discard 6
+atk $M

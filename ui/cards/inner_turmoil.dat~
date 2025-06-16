@@ -1,0 +1,11 @@
+37
+Inner Turmoil
+SKILL-ATK
+1
+0
+
+Range 1. Damage 1 + []. You may also inflict X damage on yourself to gain Damage +X. X is no more than 1.
+with ATk
+aim 1 enemy
+trade_hp 1
+atk $+1&$h

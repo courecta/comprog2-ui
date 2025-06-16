@@ -1,0 +1,12 @@
+Electrified Shield
+SKILL-DEF
+2
+2
+
+with DEF
+aim 2 enemy
+atk 2
+aim 1 self
+def $l
+ongoing if > $d 0 aim 2 enemy
+ongoing if > %d 0 atk 4

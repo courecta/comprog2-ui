@@ -1,0 +1,8 @@
+136
+Hooded System
+TWIST
+0
+0
+fru
+Each time your opponent inflicts damage on you, you may discard up to 1 Skill Card from your hand to reduce the damage by X. X is equal to the discarded Skill Card's [level].
+take_damage discard SKILL defense 1

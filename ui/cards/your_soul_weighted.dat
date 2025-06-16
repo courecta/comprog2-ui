@@ -1,0 +1,13 @@
+101
+Your Soul Weighted
+SKILL-MOVE
+1
+0
+
+Range 1. Damage 1 You may return up to [] Match Cards from the opponent's discard pile back to the Match Deck. For each card returned in this way, you gain 1 power.
+with MOVE
+aim 1 enemy
+atk 1
+return_match $l
+aim 1 self
+power $m

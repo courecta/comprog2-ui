@@ -1,0 +1,10 @@
+72
+Ascendant Glory
+SKILL-ATK
+2
+2
+
+Range 1. Damage 2 + []. Gain Damage +1 for each 3 Defense you currently have.
+with ATK
+aim 1 enemy
+atk $+$+2&$l&$/$d&3

@@ -1,0 +1,11 @@
+17
+Unleashed Ballistics
+SKILL-MOVE
+1
+0
+
+Range 1. Damage 1. Knockback the opponent up to -MOVE spaces (your choices).
+with MOVE
+aim 1 enemy
+atk 1
+knockback $l

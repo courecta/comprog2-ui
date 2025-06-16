@@ -1,0 +1,14 @@
+14
+Energy Shield
+SKILL-DEF
+1
+0
+
+Range 1. Damage 1. Defense [].\nOngoing: if your Defense is not 0 at the beginning of your next turn, inflict 2 damage on an opponent in range 1.
+with DEF
+aim 1 enemy
+atk 1
+aim 1 self
+def $l
+ongoing if != $d 0 aim 1 enemy
+ongoing if != $d 0 atk 2

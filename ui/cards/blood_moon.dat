@@ -1,0 +1,9 @@
+156
+Blood Moon
+TWIST
+0
+0
+fure
+You gain Max Defense Limit +1. (This Twist's effect is cumulative with other Twists' effects.)\nDuring your Refresh Phase, draw 1 card for each 3 Defense that has been reset.
+obtain max_def 1
+at_clear draw $/$d&3

@@ -1,0 +1,9 @@
+134
+Match
+WILD|MATCH
+0
+0
+r
+This card can be used as a Wild Card. (But it is not a Basic Card.) You cannot gain Power from this card when you play it for an Attack, Defense or Move Action.\nThis card cannot be destroyed for any reason.
+base_wild 1
+match_use 1

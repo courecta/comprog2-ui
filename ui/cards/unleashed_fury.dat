@@ -1,0 +1,11 @@
+19
+Unleashed Fury
+SKILL-MOVE
+3
+4
+
+Range 3. Damage 3. Knockback the opponent up to [] spaces (your choices).
+with MOVE
+aim 3 enemy
+atk 3
+knockback $l

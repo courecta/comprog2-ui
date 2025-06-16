@@ -1,0 +1,11 @@
+132
+Poison
+POISON
+2
+0
+
+When this card enters your discard pile, you lose 1 HP.\nAction: Discard this card from your hand to gain 1 Power.
+discard_this
+on_discard aim 1 self
+on_discard deduct 1
+on_discard power 1

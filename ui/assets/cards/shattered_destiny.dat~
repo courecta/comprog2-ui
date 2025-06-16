@@ -1,0 +1,11 @@
+29
+Shattered Passage
+SKILL-MOVE
+1
+0
+
+Range []. Damage 1. Place yourself into one of the opponent's range 1 spaces.
+aim $l enemy
+atk 1
+aim 11 enemy
+teleport 1

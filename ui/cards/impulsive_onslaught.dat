@@ -1,0 +1,13 @@
+82
+Impulsive Onslaught
+EPIC
+0
+0
+
+Place the opponent into one of your range 1 spaces and then inflict 3 damage on her.\nOngoing: At the beginning of your next turn, you may place the opponent into one of your range 1 spaces and then inflict 3 damage on her.
+aim 11 enemy
+atk 3
+teleport_enemy 1
+ongoing aim 11 enemy
+ongoing atk 3
+ongoing teleport_enemy 1

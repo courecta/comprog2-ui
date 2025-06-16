@@ -1,0 +1,10 @@
+163
+Ritual of Pain
+TWIST
+0
+0
+uefr
+When you use an Attack Action or a SKILL-ATK you may return up to 1 Match Card from the opponent's discard pile back to the Match Deck to gain Damage +2.
+use if cardtype ATK|SKILL-ATK aim 11 enemy
+use if cardtype ATK|SKILL-ATK return_match 1
+use if cardtype ATK|SKILL-ATK damage $*2&$m

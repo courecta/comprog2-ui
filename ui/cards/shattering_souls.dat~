@@ -1,0 +1,9 @@
+40
+Shattering Souls
+SKILL-DEF
+3
+4
+
+Until the end of this turn. you gain Damage +3 during each of the next [] + [token] Attack Actions. (These actions do not need to be successive.)
+damage 3
+print no done yet

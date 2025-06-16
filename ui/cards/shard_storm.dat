@@ -1,0 +1,11 @@
+23
+Shard Storm
+SKILL-ATK
+1
+0
+
+Range 1. Damage 1 + []. Discard the top card of the opponent's deck into her discard pile.
+with ATK
+aim 1 enemy
+atk $+1&$l
+deck_discard 1

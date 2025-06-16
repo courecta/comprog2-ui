@@ -1,0 +1,8 @@
+139
+Crystal Coffin
+TWIST
+0
+0
+ufe
+When you inflict at least 2 damage on an opponent via an Attack Actoin or a SKILL-ATK. you may place the top card of the Poison Deck into her discard pile.
+do_damage 2 ATK|SKILL-ATK poison 1

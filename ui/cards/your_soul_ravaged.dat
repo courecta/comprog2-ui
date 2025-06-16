@@ -1,0 +1,14 @@
+103
+Your Soul Ravaged
+SKILL-MOVE
+3
+4
+
+Range 3. Damage 3 You may return up to [] Match Cards from the opponent's discard pile back to the Match Deck. For each card returned in this way, you gain 3 power and recover 2 HP.
+with MOVE
+aim 3 enemy
+atk 3
+return_match $l
+aim 1 self
+power $*3&$m
+recover $*2&$m

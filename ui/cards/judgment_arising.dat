@@ -1,0 +1,9 @@
+81
+Judgment Arising
+EPIC
+0
+0
+Defense 6.\nOngoing: At the beginning of your next turn, the opponent loses X HP if her Defense is lower then yours. X is equal to the difference between your Defense and hers.
+def 6
+ongoing if > $d $D aim 11 enemy
+ongoing if > $d $D atk $-$d&$D

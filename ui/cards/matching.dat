@@ -1,0 +1,9 @@
+1000
+Matching
+ACTION
+0
+0
+Pw
+If the opponent is in range 1, you may place a Match Card from the Match Deck on top of her deck.
+aim 1 enemy
+sp_add 1 deck

@@ -1,0 +1,11 @@
+31
+Shattered Destiny
+SKILL-MOVE
+3
+4
+
+Range 2 + []. Damage 3. Place yourself into one of the opponent's range 1 spaces.
+aim $+2&$l enemy
+atk 3
+aim 11 enemy
+teleport 1

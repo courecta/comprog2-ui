@@ -1,0 +1,9 @@
+44
+The Sleeper Wakes
+EPIC
+0
+0
+
+Immediately gain 3 Awakening Tokens (ignore the limit of 6) no matter which mode you are in. If you are still Asleep after that, you may choose to immediately be Awakend.
+token_add 3
+print choose to transform

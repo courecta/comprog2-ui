@@ -1,0 +1,11 @@
+36
+Inner Rage
+SKILL-ATK
+2
+2
+
+Range 1. Damage 2 + []. You may also inflict X damage on yourself to gain Damage +X. X is no more than 2.
+with ATk
+aim 1 enemy
+trade_hp 2
+atk $+2&$h

@@ -1,0 +1,11 @@
+97
+Requite a Wish
+SKILL-ATK
+3
+4
+
+Range 3. Damage 3 + []. You may spend Power to increase this damage. Gain Damage +1 for each 3 Power spent in this way.
+with ATK
+aim 3 enemy
+trade_power 3
+atk $+$+3&$l&$/$w&3

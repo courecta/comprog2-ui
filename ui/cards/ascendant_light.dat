@@ -1,0 +1,10 @@
+71
+Ascendant Light
+SKILL-ATK
+1
+0
+
+Range 1. Damage 1 + []. Gain Damage +1 for each 3 Defense you currently have.
+with ATK
+aim 1 enemy
+atk $+$+1&$l&$/$d&3

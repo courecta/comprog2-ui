@@ -1,0 +1,10 @@
+13
+Sniper Shot
+SKILL-ATK
+3
+4
+
+Range 3. Damage 3 + [].
+with ATK
+aim 3 enemy
+atk $+3&$l

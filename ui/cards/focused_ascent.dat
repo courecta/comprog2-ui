@@ -1,0 +1,13 @@
+79
+Focused Ascent
+SKILL-MOVE
+3
+4
+
+Range []. Damage 3. You may lose 1 HP to destory a card from your hand or discard pile.\nOngoing: At the beginning of your next turn, inflict 6 damage on an opponent if she is beyond range 4 + [].
+with MOVE
+aim $l enemy
+atk 3
+print Not done yet, destory card from hand or discard pile?
+ongoing aim $-4&$l enemy
+ongoing atk 6

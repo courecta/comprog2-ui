@@ -1,0 +1,8 @@
+144
+Blood Rite
+TWIST
+0
+0
+fure
+Limit once per turn. When you inflict at least 2/4/6 damage on an opponent. you may choose to add a no higher than Lv1/Lv2/Lv3 Attack Card (not a Wil dCard) back into your hand from your discard pile.
+do_damage 2 print no done yet.

@@ -1,0 +1,11 @@
+98
+Diabolical Offer
+SKILL-DEF
+1
+0
+
+Defense []. Lose X HP to draw X cards. X is no more than 1.
+with DEF
+def $l
+trade_hp 1
+draw $h

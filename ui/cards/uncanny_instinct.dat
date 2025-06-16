@@ -1,0 +1,9 @@
+157
+Uncanny Instinct
+TWIST
+0
+0
+fure
+You gain Max Defense Limit +1 (This Twist's effect is cumulative with other Twists' effects.)\nLimit once per turn: if the opponent's Defense is lower then yours, you may move her 1 space any direction.
+obtain max_def 1
+print undone yet, moving opponent?

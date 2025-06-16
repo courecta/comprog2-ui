@@ -1,0 +1,8 @@
+141
+Venomous Turn
+TWIST
+0
+0
+efu
+After you move through an opponent via a Move Action (not a SKILL-MOVE) or an opponents moves through you via a Move Action, you my place the top card of the Poison Deck into her discard pile.
+move_through poison 1

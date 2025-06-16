@@ -1,0 +1,11 @@
+18
+Unleashed Firepower
+SKILL-MOVE
+2
+2
+
+Range 2. Damage 2. Knockback the opponent up to [] spaces (your choices).
+with MOVE
+aim 2 enemy
+atk 2
+knockback $l

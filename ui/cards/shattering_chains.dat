@@ -1,0 +1,10 @@
+38
+Shattering Chains
+SKILL-DEF
+1
+0
+
+Until the end of this turn. you gain Damage +1 during each of the next [] + [token] Attack Actions. (These actions do not need to be successive.)
+with DEF
+damage 1
+print no done yet

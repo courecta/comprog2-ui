@@ -1,0 +1,11 @@
+75
+Bygone Echoes
+SKILL-DEF
+2
+2
+
+Defense 2 + []. Reveal the top 2 cards of your deck. Add each Defense Card (not a Wild Card) into your hand and discard every other revealed card or place if back in any order.
+with DEF
+def $+2&$l
+showcase deck 2
+print undone yet, put it to discard pile?
