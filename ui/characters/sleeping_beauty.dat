@@ -1,0 +1,39 @@
+Sleeping Beauty
+42
+6
+21
+treating_what_ails
+inner_fury
+inner_fury
+inner_fury
+bloodletting
+inner_rage
+inner_rage
+inner_turmoil
+NULL
+treating_what_ails
+shattering_souls
+shattering_souls
+shattering_souls
+blood_rite
+shattering_bones
+shattering_bones
+shattering_chains
+NULL
+treating_what_ails
+the_wrenching_dark
+the_wrenching_dark
+the_wrenching_dark
+mental_barriers
+the_grasping_dark
+the_grasping_dark
+the_groping_dark
+NULL
+the_blood_renews
+and_they_woke_up
+the_sleeper_wakes
+NULL
+NULL
+ongoing set_max_token 6
+hurt token $H
+ongoing if >= $T 6 awake
